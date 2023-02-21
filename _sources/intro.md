@@ -1,8 +1,8 @@
 # Introduction
 
-Hi! My name is Hristo. This is a collection of my notes (typed and drawn) on SoftUni's course in Artificial Intelligence. The course had four parts: Math and Statistics, Data Science, Machine Learning, and Deep Learning.
+Hi! My name is Hristo. This is a collection of my study notes (typed and drawn) on SoftUni's course in Artificial Intelligence. The notes are in English and Bulgarian: I found that translating a phrase helps me better grasp the material. The course had four parts: Math and Statistics, Data Science, Machine Learning, and Deep Learning.
 
-There are undoubtedly inaccuracies, the formatting is also not always pretty. However, I created the book mainly for myself, as a way to combine all information in one document and easily access it . Below is also a list of my projects so far.
+There are undoubtedly inaccuracies, the formatting is also not always pretty. However, I created the book mainly for myself, as a way to combine all information in one document and easily access it online. Below is also a list of my projects so far.
 
 ## Projects
 Longer, with more research, but older. Done as final-course assignments.
