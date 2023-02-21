@@ -1,0 +1,23 @@
+format: jb-book
+root: intro
+chapters: 
+- file: machine-learning/00_contents
+  sections: 
+  - file: machine-learning/01_intro_to_ml
+  - file: machine-learning/02_linear_and_logistic_regression
+  - file: machine-learning/03_model_training
+  - file: machine-learning/04_trees_and_ensembles
+  - file: machine-learning/05_svm
+  - file: machine-learning/06_clustering
+  - file: machine-learning/07_dimensionality_reduction
+  - file: machine-learning/08_neural_networks
+  - file: machine-learning/09_time_series
+- file: data-science/00-Contents
+  sections: 
+  - file: data-science/01-Data-Acquisition
+  - file: data-science/02-Data-Tidying-and-Cleaning
+  - file: data-science/03-Data-Visualization
+  - file: data-science/04-Images-and-Text
+  - file: data-science/05-Spatial-Data-and-Networks
+  - file: data-science/06-Regression
+  - file: data-science/07-Project-Architecture
