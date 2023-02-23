@@ -1,6 +1,0 @@
-# Machine Learning
-
-
-
-```{tableofcontents}
-```

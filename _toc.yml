@@ -21,3 +21,19 @@ chapters:
   - file: data-science/05-Spatial-Data-and-Networks
   - file: data-science/06-Regression
   - file: data-science/07-Project-Architecture
+- file: handwritten/00_contents
+  sections: 
+  - file: handwritten/coef-of-determination
+  - file: handwritten/cross-entropy
+  - file: handwritten/epochs-batches-trainingsteps
+  - file: handwritten/error
+  - file: handwritten/information-gain
+  - file: handwritten/linear-regression
+  - file: handwritten/mae-mse-rmse
+  - file: handwritten/metrics
+  - file: handwritten/neural-networks
+  - file: handwritten/pca-basic-intuition
+  - file: handwritten/probability
+  - file: handwritten/sparsity
+  - file: handwritten/squared-loss
+  - file: handwritten/variation
