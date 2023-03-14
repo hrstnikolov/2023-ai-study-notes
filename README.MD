@@ -11,6 +11,6 @@ To update the book, run the following commands:
 	- `conda activate ENVNAME`
 	- `jb build 2023-ai-study-notes`
 - in the main folder:
-	- `git add`, `commit` and `push`
 	- `cd 2023-ai-study-notes` 
+	- `git add`, `commit` and `push`
 	- `ghp-import -n -p -f _build/html`
